@@ -7,6 +7,7 @@ Para el programa principal
 Los distintos radios en micrometros de las muestras son:
 - Verde: 408,35
 - Gris: 357,15
-- Eje: 1242,25 
+- Eje: 1242,25
+  
 En caso de no querer utilizar estos radios, puede dejarse la constante como None.
 Para realizar el calculo de solapes y angulos de cada muestra, hacer uso de la tabla de calculo que se encuentra en este repositorio.
